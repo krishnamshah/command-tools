@@ -1,0 +1,6 @@
+*
+!*.ps1
+!readme.md
+!functions.sh
+!functions-osx.sh
+!.gitignore
