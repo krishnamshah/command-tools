@@ -13,3 +13,15 @@ function vb {
     python -m venv venv
     va
 }
+
+
+function vde {
+    # deactivate virtualenv
+    deactivate
+}
+
+
+function vup {
+    # update pip
+    python -m pip install --upgrade pip
+}
